@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "821416587820",
+    "project_id": "kulinerku-5e396",
+    "storage_bucket": "kulinerku-5e396.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821416587820:android:e47387dd81723e0f841789",
+        "android_client_info": {
+          "package_name": "example.com.kulinerku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821416587820-t8174bdpju2hp7f9n8ljb5584p40fb44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsrh2QI_ATBtq4v-GEonOrYhLX7McC-W0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821416587820-t8174bdpju2hp7f9n8ljb5584p40fb44.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
